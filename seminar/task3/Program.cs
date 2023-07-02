@@ -13,4 +13,4 @@ if (day == 5) Console.WriteLine("День недели - Пятница");
 if (day == 6) Console.WriteLine("День недели - Суббота");
 if (day == 7) Console.WriteLine("День недели - Воскресенье");
 
-if (day > 8 || day < 1 ) Console.WriteLine($"{day} - Неверное число!!!");
+if (day > 7 || day < 1 ) Console.WriteLine($"{day} - Неверное число!!!");
