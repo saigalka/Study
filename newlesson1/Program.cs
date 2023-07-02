@@ -2,3 +2,4 @@
 string username = Console.ReadLine();
 Console.Write("День добрый, ");
 Console.WriteLine(username + " !");
+Console.Write("Продолжаем ...");
