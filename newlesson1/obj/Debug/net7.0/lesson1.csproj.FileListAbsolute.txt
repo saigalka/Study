@@ -1,0 +1,15 @@
+D:\Doki\My doki\Git\progLessons\lesson1\bin\Debug\net7.0\lesson1.exe
+D:\Doki\My doki\Git\progLessons\lesson1\bin\Debug\net7.0\lesson1.deps.json
+D:\Doki\My doki\Git\progLessons\lesson1\bin\Debug\net7.0\lesson1.runtimeconfig.json
+D:\Doki\My doki\Git\progLessons\lesson1\bin\Debug\net7.0\lesson1.dll
+D:\Doki\My doki\Git\progLessons\lesson1\bin\Debug\net7.0\lesson1.pdb
+D:\Doki\My doki\Git\progLessons\lesson1\obj\Debug\net7.0\lesson1.csproj.AssemblyReference.cache
+D:\Doki\My doki\Git\progLessons\lesson1\obj\Debug\net7.0\lesson1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Doki\My doki\Git\progLessons\lesson1\obj\Debug\net7.0\lesson1.AssemblyInfoInputs.cache
+D:\Doki\My doki\Git\progLessons\lesson1\obj\Debug\net7.0\lesson1.AssemblyInfo.cs
+D:\Doki\My doki\Git\progLessons\lesson1\obj\Debug\net7.0\lesson1.csproj.CoreCompileInputs.cache
+D:\Doki\My doki\Git\progLessons\lesson1\obj\Debug\net7.0\lesson1.dll
+D:\Doki\My doki\Git\progLessons\lesson1\obj\Debug\net7.0\refint\lesson1.dll
+D:\Doki\My doki\Git\progLessons\lesson1\obj\Debug\net7.0\lesson1.pdb
+D:\Doki\My doki\Git\progLessons\lesson1\obj\Debug\net7.0\lesson1.genruntimeconfig.cache
+D:\Doki\My doki\Git\progLessons\lesson1\obj\Debug\net7.0\ref\lesson1.dll
