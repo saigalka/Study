@@ -14,4 +14,3 @@ if (max < digit2)
     max = digit2;
 }
 Console.WriteLine($"максимальная цифра в числе {num} => {max}");
-
