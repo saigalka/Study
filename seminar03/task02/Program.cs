@@ -14,8 +14,8 @@ int GetInfo(string message)
 }
 
 int Ax = GetInfo("Ведите координату х точки А: ");
-int Ay = GetInfo("Ведите координату х точки А: ");
-int Bx = GetInfo("Ведите координату х точки А: ");
-int By = GetInfo("Ведите координату х точки А: ");
+int Ay = GetInfo("Ведите координату y точки А: ");
+int Bx = GetInfo("Ведите координату х точки B: ");
+int By = GetInfo("Ведите координату y точки B: ");
 
-Console.WriteLine($"Расстояние между двумя точками на плоскомти равно {Lenght(Ax, Ay, Bx, By)}");
+Console.WriteLine($"Расстояние между двумя точками на плоскости равно {Lenght(Ax, Ay, Bx, By):0.000}");
