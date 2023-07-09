@@ -20,3 +20,4 @@ else
 {
 Console.WriteLine($"Не кратно, остаток {num}");
 }
+
