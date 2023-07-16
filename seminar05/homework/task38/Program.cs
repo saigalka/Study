@@ -23,10 +23,10 @@ double[] GenNewRandomArray(int size, float endValue)
     Console.Write($"Массив из {size} элементов - [");
     for (int i = 0; i < size-1; i++)
     {
-        array[i] = new Random().NextDouble() * 100;
+        array[i] = new Random().NextDouble() * endValue;
         Console.Write($"{array[i]:0.00} ; ");
     }
-    array[size-1] = new Random().NextDouble() * 100;
+    array[size-1] = new Random().NextDouble() * endValue;
     Console.WriteLine($"{array[size-1]:0.00}]");
     return array;
 }
