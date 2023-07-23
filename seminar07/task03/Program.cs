@@ -54,8 +54,8 @@ int GetInfo(string message)
     return Convert.ToInt32(Console.ReadLine());
 }
 
-int rows = GetInfo("Введите количкство строк массива: ");
-int columns = GetInfo("Введите количкство строк массива: ");
+int rows = GetInfo("Введите количество строк массива: ");
+int columns = GetInfo("Введите количество столбцов массива: ");
 
 int[,] massive = DoDoubleMassive(rows, columns, 0, 9);
 PrintDoubleMassive(massive);
